@@ -1,0 +1,18 @@
+{
+  "name": "immutable-vector",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "matcha": "^0.5.0"
+  }
+}
